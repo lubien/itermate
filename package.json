@@ -1,0 +1,30 @@
+{
+  "name": "itermate",
+  "version": "1.0.0",
+  "description": "Lazily iteration module based on ramda",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubien/itermate.git"
+  },
+  "keywords": [
+    "iterators",
+    "iterables",
+    "ramda",
+    "generators",
+    "lazy",
+    "itertools"
+  ],
+  "author": "lubien <lubien1996@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lubien/itermate/issues"
+  },
+  "homepage": "https://github.com/lubien/itermate#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
